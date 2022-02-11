@@ -1,23 +1,75 @@
-### Hi Developers 👋
+<p align="center"> 
+<a href="#"><img width="45%" height="10%" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611253ac4ca2b22fdf82f7346d261df3f89132eb309&rid=giphy.gif&ct=g" /></a>
+</p>    
 
-<!-- [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aakash--01629954/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-) -->
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Malaya</h1>
+<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
-I'm
-Full Stack Web developer
-Programming has always been of interest to me, . I have a wide range of skills that include front-end development (React, HTML5, CSS3, Javascript, ),database(MongoDB)
 
-Languages and Tools: 
+## 🙋‍♂️ About Me
 
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>  <img alt="JavaScript" src="https://camo.githubusercontent.com/fea767f4a27bbcc…d643161303166266c6162656c436f6c6f723d323832383238"/> <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=flat-square&logo=node-dot-js&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white"/>
+- 🌱 I’m currently learning **REACT.**
 
-<div>
-  <h4>🏆 Github Profile Trophy</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aakashdeveloper&column=7"/>
-  </a>
-</div>
+- 🌱 I’m currently learning **Data Structures and Algorithms.**
 
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+<!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
+
+- 📫 How to reach me **malayak68@gmail.com**
+
+<!-- - ⚡ Fun fact **I play games and go to the GYM very often.** -->
+
+## 🚀 Languages and Tools:
+
+<p align="center"> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
+    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>  
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
+</p>
+
+
+<p align="center">
+    <a href="https://github.com/malayakumar/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SurendraKumarRout&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+## 📊 My Github Stats
+
+  <br/>
+  <p align="center">
+    <a href="https://github.com/malayakumar/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SurendraKumarRout&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  </p>  
+  
+  <br/>
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/malayakumar/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=malayakumar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+## Connect with me:
+<p align="left">
+
+<!-- <a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/external-justicon-flat-justicon/50/000000/external-gmail-social-media-justicon-flat-justicon.png" height="40"/></a> -->
+<a href = "https://www.linkedin.com/in/malaya-kumar-biswal-793493156/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/game___slayer/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
+</p>
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=SurendraKumarRout">
+</a>
+<a href="https://github.com/malayakumar"><img src="https://img.shields.io/github/followers/SurendraKumarRout?label=Followers&style=social" alt="GitHub Badge"></a>
 
