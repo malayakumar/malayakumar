@@ -90,7 +90,9 @@
 
   <br/>
   <p align="center">
-    <a href="https://github.com/malayakumar/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=<p align="center"> 
+    <a href="https://github.com/malayakumar/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=
+                                                                      
+<p align="center"> 
 <a href="#"><img width="45%" height="10%" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611253ac4ca2b22fdf82f7346d261df3f89132eb309&rid=giphy.gif&ct=g" /></a>
 </p>    
 
